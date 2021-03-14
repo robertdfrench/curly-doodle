@@ -4,5 +4,5 @@ test:
 		| xargs make
 
 %.test: %.pl
-	@printf "\n# "
+	@printf "\n\n# "
 	./$<
