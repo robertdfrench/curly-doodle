@@ -1,1 +1,2 @@
-# curly-doodle
+# Curly Doodle
+*Relearning Perl*
